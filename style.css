@@ -24,11 +24,11 @@ body {
 
 .header-content {
   background-color: black;
-  color: #ffffff;
   text-align: center;
 }
 
 .header-content > h1 {
+  color: white;
   padding-top: 50px;
   font-variant: small-caps;
   font-family: var(--fonte2);
