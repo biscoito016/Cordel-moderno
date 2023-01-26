@@ -82,13 +82,13 @@ section.img > p {
 }
 
 section#img1 {
-  background-image: url('/imgs/background001.png');
+  background-image: url('imgs/background001.png');
   background-position: right center;
   
 }
 
 section#img2 {
-  background-image: url('/imgs/background002.png');
+  background-image: url('imgs/background002.png');
   
 }
 
